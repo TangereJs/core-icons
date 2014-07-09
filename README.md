@@ -1,3 +1,8 @@
+Changes
+=========
+import all icon sets to allow their usage in the designer 
+
+
 core-icons
 =========
 
